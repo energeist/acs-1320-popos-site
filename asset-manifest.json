@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/acs-1320-popos-site/static/css/main.9e288abb.css",
-    "main.js": "/acs-1320-popos-site/static/js/main.d22e9ace.js",
+    "main.css": "/acs-1320-popos-site/static/css/main.d4261060.css",
+    "main.js": "/acs-1320-popos-site/static/js/main.60af49ea.js",
     "static/js/787.4d65e01d.chunk.js": "/acs-1320-popos-site/static/js/787.4d65e01d.chunk.js",
     "index.html": "/acs-1320-popos-site/index.html",
-    "main.9e288abb.css.map": "/acs-1320-popos-site/static/css/main.9e288abb.css.map",
-    "main.d22e9ace.js.map": "/acs-1320-popos-site/static/js/main.d22e9ace.js.map",
+    "main.d4261060.css.map": "/acs-1320-popos-site/static/css/main.d4261060.css.map",
+    "main.60af49ea.js.map": "/acs-1320-popos-site/static/js/main.60af49ea.js.map",
     "787.4d65e01d.chunk.js.map": "/acs-1320-popos-site/static/js/787.4d65e01d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e288abb.css",
-    "static/js/main.d22e9ace.js"
+    "static/css/main.d4261060.css",
+    "static/js/main.60af49ea.js"
   ]
 }
