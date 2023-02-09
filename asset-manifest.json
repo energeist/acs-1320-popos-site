@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/acs-1320-popos-site/static/css/main.58cc1150.css",
+    "main.css": "/acs-1320-popos-site/static/css/main.aaac5f03.css",
     "main.js": "/acs-1320-popos-site/static/js/main.d22e9ace.js",
     "static/js/787.4d65e01d.chunk.js": "/acs-1320-popos-site/static/js/787.4d65e01d.chunk.js",
     "index.html": "/acs-1320-popos-site/index.html",
-    "main.58cc1150.css.map": "/acs-1320-popos-site/static/css/main.58cc1150.css.map",
+    "main.aaac5f03.css.map": "/acs-1320-popos-site/static/css/main.aaac5f03.css.map",
     "main.d22e9ace.js.map": "/acs-1320-popos-site/static/js/main.d22e9ace.js.map",
     "787.4d65e01d.chunk.js.map": "/acs-1320-popos-site/static/js/787.4d65e01d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58cc1150.css",
+    "static/css/main.aaac5f03.css",
     "static/js/main.d22e9ace.js"
   ]
 }
