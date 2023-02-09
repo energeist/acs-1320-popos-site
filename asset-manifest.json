@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/acs-1320-popos-site/static/css/main.5ad655cd.css",
+    "main.js": "/acs-1320-popos-site/static/js/main.43b8bc60.js",
+    "static/js/787.4d65e01d.chunk.js": "/acs-1320-popos-site/static/js/787.4d65e01d.chunk.js",
+    "index.html": "/acs-1320-popos-site/index.html",
+    "main.5ad655cd.css.map": "/acs-1320-popos-site/static/css/main.5ad655cd.css.map",
+    "main.43b8bc60.js.map": "/acs-1320-popos-site/static/js/main.43b8bc60.js.map",
+    "787.4d65e01d.chunk.js.map": "/acs-1320-popos-site/static/js/787.4d65e01d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ad655cd.css",
+    "static/js/main.43b8bc60.js"
+  ]
+}
